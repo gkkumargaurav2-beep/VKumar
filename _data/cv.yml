@@ -2,16 +2,15 @@
 # Personal details (date of birth, family, home address, phone numbers) are intentionally left out.
 cv:
   name: Vimal Kumar
-  label: Assistant Professor, Department of Information Management, Chaoyang University of Technology
+  headline: Assistant Professor, Department of Information Management, Chaoyang University of Technology
   email: vimalkr@gm.cyut.edu.tw
   location: Taichung, Taiwan
   website: https://gkkumargaurav2-beep.github.io/VKumar/
-  summary: >
-    Researcher in quality management, supply-chain analytics, patent analysis and sustainable operations.
-    Over 240 journal articles, chapters and conference papers, including 17 in ABDC A-ranked journals;
-    about 6,100 Google Scholar citations and an h-index of 44 (September 2026).
 
   sections:
+    Profile:
+      - bullet: "Researcher in quality management, supply-chain analytics, patent analysis and sustainable operations. Over 240 journal articles, chapters and conference papers, including 17 in ABDC A-ranked journals; about 6,100 Google Scholar citations and an h-index of 44 (September 2026)."
+
     Education:
       - institution: Indian Institute of Technology Kanpur
         location: Kanpur, India
