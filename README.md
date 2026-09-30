@@ -33,7 +33,7 @@ Add a `CNAME` file containing the domain (e.g. `vimalkumar.com`), set `url: http
 
 - **New paper:** add an entry to `_bibliography/papers.bib`. Set `abbr` to `ABDC A`, `ABDC B`, `ABDC C`, `Journal`, `Chapter` or `Conference`, and `tier` to `a`, `b`, `c`, `other`, `chapter` or `conference` so it lands in the right section. Add `selected = {true}` to feature it on the home page.
 - **News:** add a short file to `_news/` (copy an existing one and change the date and text). Remove old items once or twice a year.
-- **Photo:** replace `assets/img/prof_pic.jpg` with a higher-resolution portrait (at least 600 px wide). The current one is taken from the CV and is only 168 px wide.
+- **Photo:** replace `assets/img/prof_pic.jpg` (keep the file name; about 800 px wide JPEG works well). The current one is the formal suit portrait, 800 × 1029 px.
 - **CV download:** put a public-safe PDF at `assets/pdf/Vimal_Kumar_CV.pdf` and uncomment `cv_pdf` in `_data/socials.yml`. Do not publish the full CV with date of birth, family details, home addresses or phone numbers.
 
 See `CONTENT-NOTES.md` for items in the CV data that still need checking.
