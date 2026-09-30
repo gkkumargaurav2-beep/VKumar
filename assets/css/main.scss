@@ -138,3 +138,13 @@ a {
     font-size: 0.95rem;
   }
 }
+
+/* Header and footer scroll with the page (navbar_fixed/footer_fixed: false).
+   The theme's progress-bar script still pads <body> for a fixed header; cancel it. */
+body:not(.fixed-top-nav) {
+  padding-top: 0 !important;
+}
+
+#navbar.navbar {
+  opacity: 1;
+}
