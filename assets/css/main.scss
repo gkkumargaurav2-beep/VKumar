@@ -1,0 +1,119 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+/* Built-in Sass modules you’ll likely use across partials */
+@use "sass:math";
+@use "sass:string";
+
+/* Configure your design tokens BEFORE loading any of your partials.
+   Make sure `_sass/_variables.scss` declares `$max-content-width: 72rem !default;` */
+@use "variables" with (
+  $max-content-width: {{ site.max_width | default:  "930px" }}
+);
+
+/* Your project partials — convert these files to `@use "variables";`
+   (or `@use "variables" as *;`) inside each file and qualify variables if needed. */
+@use "themes";
+@use "layout";
+
+// Core styles organized by usage
+@use "typography";
+@use "navbar";
+@use "footer";
+@use "blog";
+@use "publications";
+@use "components";
+@use "utilities";
+
+// Other specialized styles
+@use "tabs";
+@use "teachings";
+@use "typograms";
+
+/* ---------------------------------------------------------------------------
+ * Site-specific look for Dr Vimal Kumar
+ * This file shadows al_folio_core's assets/css/main.scss: everything above is
+ * copied unchanged from the gem (v1.0.15); only the block below is local.
+ * If the al_folio_core pin is upgraded, re-copy the lines above from the gem.
+ *
+ * Direction: quiet, business-school feel. Serif headings, clear sans body,
+ * one deep navy accent. Nothing decorative.
+ * ------------------------------------------------------------------------- */
+
+:root {
+  --site-serif: "Source Serif 4", Georgia, "Times New Roman", serif;
+  --site-sans: "Source Sans 3", "Segoe UI", Helvetica, Arial, sans-serif;
+
+  --global-text-color: #1f2933;
+  --global-text-color-light: #5b6776;
+  --global-theme-color: #1f3a5f;
+  --global-hover-color: #1f3a5f;
+  --global-divider-color: rgba(31, 58, 95, 0.14);
+  --global-footer-bg-color: #16243a;
+  --global-footer-text-color: #d5dbe3;
+  --global-footer-link-color: #ffffff;
+  --global-code-bg-color: rgba(31, 58, 95, 0.05);
+}
+
+html[data-theme="dark"] {
+  --global-text-color: #e4e7eb;
+  --global-text-color-light: #a3adb9;
+  --global-theme-color: #9dbbe0;
+  --global-hover-color: #9dbbe0;
+  --global-hover-text-color: #0f1720;
+}
+
+body {
+  font-family: var(--site-sans);
+  font-weight: 400;
+  font-size: 1.0625rem;
+  line-height: 1.65;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.post-title,
+.navbar-brand.title {
+  font-family: var(--site-serif);
+  letter-spacing: -0.005em;
+}
+
+.post-header .post-title {
+  font-weight: 600;
+}
+
+.post-header .desc {
+  color: var(--global-text-color-light);
+}
+
+b,
+strong {
+  font-weight: 600;
+}
+
+a {
+  text-underline-offset: 0.15em;
+}
+
+.navbar .nav-link {
+  font-weight: 500;
+}
+
+/* Contact lines under the profile photo: body font, muted, one per line */
+.profile .more-info {
+  font-family: var(--site-sans);
+  font-size: 0.9rem;
+  line-height: 1.5;
+  color: var(--global-text-color-light);
+  margin-top: 0.6rem;
+}
+
+.profile .more-info p {
+  display: block;
+}
