@@ -33,4 +33,4 @@ nav_order: 4
 
 ## Prospective students
 
-I welcome enquiries from prospective PhD and Master's students interested in quality management, supply-chain analytics, patent analysis and technology forecasting, or sustainable operations. Please email a CV and a one-page outline of the question you would like to study.
+Enquiries are welcome from prospective PhD and Master's students interested in quality management, supply-chain analytics, patent analysis and technology forecasting, or sustainable operations. Please email a CV together with a one-page outline of the proposed research question.

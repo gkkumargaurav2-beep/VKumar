@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 ---
 
-I teach quantitative and operations courses to undergraduates in Information Management, and research-methods and management courses to doctoral students. My teaching draws directly on my research in quality management, supply chains and analytics.
+Teaching spans quantitative and operations courses for undergraduates in Information Management, and research-methods and management courses for doctoral students. Each course draws directly on research in quality management, supply chains and analytics.
 
 ## Chaoyang University of Technology, Taiwan (2019–present)
 

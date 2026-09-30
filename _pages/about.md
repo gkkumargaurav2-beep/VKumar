@@ -33,10 +33,10 @@ My research lies at the intersection of **quality management, operations and dig
   <div style="border:1px solid var(--global-divider-color);border-radius:8px;padding:12px 6px"><div style="font-size:1.6rem;font-weight:700;color:var(--global-theme-color)">6,100+</div><div style="font-size:.85rem">Google Scholar citations</div></div>
   <div style="border:1px solid var(--global-divider-color);border-radius:8px;padding:12px 6px"><div style="font-size:1.6rem;font-weight:700;color:var(--global-theme-color)">44</div><div style="font-size:.85rem">h-index</div></div>
   <div style="border:1px solid var(--global-divider-color);border-radius:8px;padding:12px 6px"><div style="font-size:1.6rem;font-weight:700;color:var(--global-theme-color)">17</div><div style="font-size:.85rem">papers in ABDC A-ranked journals</div></div>
-  <div style="border:1px solid var(--global-divider-color);border-radius:8px;padding:12px 6px"><div style="font-size:1.6rem;font-weight:700;color:var(--global-theme-color)">4</div><div style="font-size:.85rem">PhD students supervised</div></div>
+  <div style="border:1px solid var(--global-divider-color);border-radius:8px;padding:12px 6px"><div style="font-size:1.6rem;font-weight:700;color:var(--global-theme-color)">3</div><div style="font-size:.85rem">PhD graduates supervised (1 more in progress)</div></div>
 </div>
 <p style="font-size:.8rem;text-align:center;opacity:.7">Citation figures from Google Scholar, September 2026.</p>
 
-Recognised among the **World's Top 2% Scientists** in 2024 and 2025, I serve as Editor-in-Chief of the _Asian Journal of Interdisciplinary Research_ and have guest-edited a _Frontiers in Sustainability_ research topic on circular supply chains in an Industry 5.0 vision.
+Recognised among the **World's Top 2% Scientists** in 2024 and 2025, I serve as Editor-in-Chief of the _Asian Journal of Interdisciplinary Research_. I served on the editorial board of _IEEE Transactions on Engineering Management_ (2022–2024) and have guest-edited a _Frontiers in Sustainability_ research topic on circular supply chains in an Industry 5.0 vision.
 
 **Research areas:** Total Quality Management · Quality 4.0 and 5.0 · Manufacturing strategy · Logistics and supply-chain modelling · Industry 4.0 and 5.0 · Technological innovation and patent analysis · Circular economy

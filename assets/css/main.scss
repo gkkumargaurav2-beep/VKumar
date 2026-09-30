@@ -117,3 +117,24 @@ a {
 .profile .more-info p {
   display: block;
 }
+
+/* Menu: keep each item on one line, drop the "ctrl k" hint (search icon stays) */
+#navbar .navbar-nav .nav-link {
+  white-space: nowrap;
+}
+
+#navbar #search-toggle .nav-link {
+  font-size: 0 !important;
+}
+
+#navbar #search-toggle .nav-link i {
+  font-size: 1rem !important;
+}
+
+@media (max-width: 991.98px) {
+  #navbar .navbar-nav .nav-link {
+    padding-left: 0.4rem;
+    padding-right: 0.4rem;
+    font-size: 0.95rem;
+  }
+}

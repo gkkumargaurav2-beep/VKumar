@@ -2,14 +2,14 @@
 layout: page
 permalink: /research/
 title: research
-description: "Four connected themes — how organisations manage quality, run supply chains, track technology and pursue sustainability in an era of digital transformation."
+description: "Four interconnected themes: how organisations manage quality, run supply chains, track technology and pursue sustainability amid digital transformation."
 nav: true
 nav_order: 1
 ---
 
 ## Quality 4.0, Quality 5.0 and TQM
 
-My doctoral work at IIT Kanpur examined why Total Quality Management succeeds in some firms and stalls in others. It related critical success factors, organisational culture and leadership styles to a firm's strategic orientation (innovators, prospectors and defenders). I now extend this to Quality 4.0 and Quality 5.0: how digital and human-centric technologies change quality practice in manufacturing, services and higher education.
+Doctoral research at IIT Kanpur set out to explain why Total Quality Management succeeds in some firms and stalls in others, relating critical success factors, organisational culture and leadership styles to a firm's strategic orientation (innovators, prospectors and defenders). This line of work now extends to Quality 4.0 and Quality 5.0, examining how digital and human-centric technologies are changing quality practice in manufacturing, services and higher education.
 
 - Kumar, V. & Sharma, R.R.K. (2017). An empirical investigation of critical success factors influencing the successful TQM implementation for firms with different strategic orientation. _International Journal of Quality & Reliability Management_, 34(9). [DOI](https://doi.org/10.1108/IJQRM-09-2016-0157)
 - Kumar, V., Verma, P., Mangla, S.K., et al. (2020). Barriers to total quality management for sustainability in Indian organizations. _International Journal of Quality & Reliability Management_, 37(6/7). [DOI](https://doi.org/10.1108/IJQRM-10-2019-0312)
@@ -18,7 +18,7 @@ My doctoral work at IIT Kanpur examined why Total Quality Management succeeds in
 
 ## Digital, resilient supply chains
 
-I study how Industry 4.0 technologies, performance-measurement systems and sourcing strategies shape supply-chain performance and resilience, often in emerging-economy manufacturing and food sectors. Methods include structural equation modelling, multi-criteria decision making and optimisation.
+This theme examines how Industry 4.0 technologies, performance-measurement systems and sourcing strategies shape supply-chain performance and resilience, with a particular focus on manufacturing and food sectors in emerging economies. The work draws on structural equation modelling, multi-criteria decision-making and optimisation.
 
 - Jha, A., Sharma, R.R.K., Kumar, V. & Verma, P. (2022). Designing supply chain performance system: A strategic study on Indian manufacturing sector. _Supply Chain Management: An International Journal_, 27(1). [DOI](https://doi.org/10.1108/SCM-05-2020-0198)
 - Verma, P., Kumar, V., Daim, T., Sharma, N.K. & Mittal, A. (2022). Identifying and prioritizing impediments of Industry 4.0 to sustainable digital manufacturing. _Journal of Cleaner Production_, 356. [DOI](https://doi.org/10.1016/j.jclepro.2022.131639)
@@ -27,7 +27,7 @@ I study how Industry 4.0 technologies, performance-measurement systems and sourc
 
 ## Patent analytics and technology forecasting
 
-With colleagues at Chaoyang University of Technology, I use patent citation networks, main-path analysis and technology-life-cycle indicators to trace how technologies such as blockchain, mobile payment, thin-film solar cells and IoT evolve, converge and compete.
+In collaboration with colleagues at Chaoyang University of Technology, this work applies patent citation networks, main-path analysis and technology-life-cycle indicators to trace how technologies such as blockchain, mobile payment, thin-film solar cells and IoT evolve, converge and compete.
 
 - Daim, T., Lai, K.K., Yalcin, H., Alsoubaie, F. & Kumar, V. (2020). Forecasting technological positioning through technology knowledge redundancy. _Technological Forecasting and Social Change_, 161. [DOI](https://doi.org/10.1016/j.techfore.2020.120329)
 - Kumar, V., Lai, K.K., Chang, Y.H., Bhatt, P.C. & Su, F.P. (2021). A structural analysis approach to identify technology innovation and evolution path: A case of m-payment technology ecosystem. _Journal of Knowledge Management_, 25(2). [DOI](https://doi.org/10.1108/JKM-01-2020-0080)
@@ -35,7 +35,7 @@ With colleagues at Chaoyang University of Technology, I use patent citation netw
 
 ## Sustainability and the circular economy
 
-A growing strand of work looks at how SMEs and manufacturers move from linear to circular models, and at the people side of that shift: green HRM, green entrepreneurship and short food supply chains.
+A growing body of work investigates how SMEs and manufacturers transition from linear to circular models, together with the human dimension of that shift: green HRM, green entrepreneurship and short food supply chains.
 
 - Sharma, N.K., Govindan, K., Lai, K.K., Chen, W.K. & Kumar, V. (2021). The transition from linear economy to circular economy for sustainability among SMEs. _Business Strategy and the Environment_, 30(4). [DOI](https://doi.org/10.1002/bse.2717)
 - Kumar, V., Verma, P., Shah, B. & Kumar, V. (2025). Re-designing short food supply chains for sustainable livelihoods and economies worldwide. _British Food Journal_, 127(5). [DOI](https://doi.org/10.1108/BFJ-05-2024-0556)
