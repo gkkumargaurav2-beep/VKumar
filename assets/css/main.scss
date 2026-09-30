@@ -148,3 +148,15 @@ body:not(.fixed-top-nav) {
 #navbar.navbar {
   opacity: 1;
 }
+
+/* Publication badges (ABDC A/B/C, Journal, Chapter, Conference): white label.
+   The theme colours every div with the body text colour, which hid the label. */
+.badge,
+.badge * {
+  color: #fff !important;
+}
+
+.abbr .badge {
+  font-weight: 600;
+  letter-spacing: 0.02em;
+}
